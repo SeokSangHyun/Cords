@@ -4,3 +4,7 @@
 *.log
 *.exe
 .vs/
+*.bmp
+*.jpg
+*.png
+*.ico
